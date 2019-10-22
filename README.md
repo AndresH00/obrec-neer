@@ -1,6 +1,7 @@
 # Reconocimiento de Objetos NEER
 *Agregar en orden alfabético*
 ### Miembros del equipo
+* Aguayo Gomez José Miguel
 * Cárdenas Castañeda José Antonio
 * Chávez Hurtado Avelino
 * Diaz Cruz José Ismael
