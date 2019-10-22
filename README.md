@@ -8,6 +8,7 @@
 * Diaz Cruz José Ismael
 * Esqueda Ortiz Andrea Guadalupe
 * Garibay Guerra Luis Angel
+* Hernández Victoria Andrés Daniel
 * Jaime Padilla José Antonio
 * Lapizco Pérez Daniel
 * Mata Cortes Antonio de Jesus
