@@ -3,6 +3,7 @@
 ### Miembros del equipo
 * Aguayo Gomez José Miguel
 * Cárdenas Castañeda José Antonio
+*Cardenas Pinedo Kevin Salvador
 * Chávez Hurtado Avelino
 * Diaz Cruz José Ismael
 * Esqueda Ortiz Andrea Guadalupe
